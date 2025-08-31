@@ -1,6 +1,8 @@
-# EvalAI Challenge #2508
+# EbayMLChallenge - EvalAI Challenge #2508
 
 This project is for the EvalAI challenge found at: https://eval.ai/web/challenges/challenge-page/2508/overview
+
+**Repository**: https://github.com/varundataquest/EbayMLChallenge
 
 ## Project Overview
 
