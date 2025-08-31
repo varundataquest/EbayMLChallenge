@@ -1,0 +1,21 @@
+# EvalAI Challenge Configuration
+# Copy this file to .env and fill in your actual values
+
+# EvalAI API credentials
+EVALAI_API_TOKEN=your_api_token_here
+EVALAI_PARTICIPATION_TOKEN=your_participation_token_here
+
+# Challenge specific settings
+CHALLENGE_ID=2508
+
+# Model configuration
+RANDOM_STATE=42
+LEARNING_RATE=0.001
+BATCH_SIZE=32
+EPOCHS=100
+
+# Data paths (relative to project root)
+DATA_DIR=data
+MODELS_DIR=models
+RESULTS_DIR=results
+SUBMISSIONS_DIR=submissions 
